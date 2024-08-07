@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.edu.ufam.icomp.lab_excecoes","l":"RoverMain"}];updateSearchResults();
